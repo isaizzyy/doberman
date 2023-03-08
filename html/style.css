@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(250, 178, 84);
+}
+
+
+img{
+    height: 500px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+div {
+    align-content: center;
+    text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+  background-color: rgb(255, 255, 255);
+}
+
+li{
+    float:left;
+}
+li a {
+    display: block;
+    color:beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
